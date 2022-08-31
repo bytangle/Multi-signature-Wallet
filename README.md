@@ -1,5 +1,5 @@
 # Multi-Signature Wallet implementation
-This is an implementation of a multi signature wallet. A wallet that allows several owners and requires that a certain number of owners sign the transaction before it's executed. It is has a transaction limit feature.
+This is an implementation of a multi signature wallet. A wallet that allows several owners and requires that a certain number of owners sign the transaction before it's executed. It also has a transaction limit feature.
 
 > Note: This wallet is experimental but it's built using the latest solidity syntax and design guidelines
 
